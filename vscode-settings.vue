@@ -4,5 +4,7 @@
     "workbench.statusBar.visible": true,
     "workbench.activityBar.visible": false,
     "workbench.editor.showTabs": false,
-    "workbench.iconTheme": "Monokai Classic Icons"
+    "workbench.iconTheme": "Monokai Classic Icons",
+    "editor.wordWrap": "off",
+    "explorer.confirmDelete": false
 }
